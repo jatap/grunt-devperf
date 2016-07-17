@@ -1,13 +1,19 @@
 {
   "name": "grunt-devperf",
   "description": "Helps front-end developers to reach a good quality good performances, based on phantomas and grunt-phantomas.",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "homepage": "https://github.com/gmetais/grunt-devperf",
-  "author": {
-    "name": "Gaël Métais",
-    "email": "gael@gaelmetais.com",
-    "url": "www.gaelmetais.com"
-  },
+  "authors": [
+    {
+      "name": "Gaël Métais",
+      "email": "gael@gaelmetais.com",
+      "url": "www.gaelmetais.com"
+    },
+    {
+      "name": "Julio Antúnez Tarín",
+      "email": "julio.antunez.tarin@gmail.com"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/gmetais/grunt-devperf.git"
@@ -34,7 +40,7 @@
     "grunt": "^0.4.4"
   },
   "dependencies": {
-    "grunt-phantomas": "0.10.0",
+    "grunt-phantomas": "~0.13.0",
     "grunt-open": "^0.2.3"
   },
   "keywords": [
