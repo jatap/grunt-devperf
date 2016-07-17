@@ -34,7 +34,7 @@
     "grunt": "^0.4.4"
   },
   "dependencies": {
-    "grunt-phantomas": "0.10.0",
+    "grunt-phantomas": "~0.13.0",
     "grunt-open": "^0.2.3"
   },
   "keywords": [
